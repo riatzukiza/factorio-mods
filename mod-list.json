@@ -1,0 +1,88 @@
+{
+  "mods": [
+    {
+      "name": "base",
+      "enabled": true
+    },
+    {
+      "name": "5dim_autofill",
+      "enabled": true
+    },
+    {
+      "name": "5dim_automatization",
+      "enabled": true
+    },
+    {
+      "name": "5dim_battlefield",
+      "enabled": true
+    },
+    {
+      "name": "5dim_botrecaller",
+      "enabled": true
+    },
+    {
+      "name": "5dim_core",
+      "enabled": true
+    },
+    {
+      "name": "5dim_decoration",
+      "enabled": true
+    },
+    {
+      "name": "5dim_energy",
+      "enabled": true
+    },
+    {
+      "name": "5dim_equipment",
+      "enabled": true
+    },
+    {
+      "name": "5dim_infiniteresearch",
+      "enabled": true
+    },
+    {
+      "name": "5dim_locale",
+      "enabled": true
+    },
+    {
+      "name": "5dim_logistic",
+      "enabled": true
+    },
+    {
+      "name": "5dim_mining",
+      "enabled": true
+    },
+    {
+      "name": "5dim_module",
+      "enabled": true
+    },
+    {
+      "name": "5dim_nuclear",
+      "enabled": true
+    },
+    {
+      "name": "5dim_resources",
+      "enabled": true
+    },
+    {
+      "name": "5dim_trade",
+      "enabled": true
+    },
+    {
+      "name": "5dim_trains",
+      "enabled": true
+    },
+    {
+      "name": "5dim_transport",
+      "enabled": true
+    },
+    {
+      "name": "5dim_vehicle",
+      "enabled": true
+    },
+    {
+      "name": "Rampant",
+      "enabled": true
+    }
+  ]
+}
