@@ -81,7 +81,223 @@
       "enabled": true
     },
     {
+      "name": "aai-industry",
+      "enabled": true
+    },
+    {
+      "name": "aai-industry-sp0",
+      "enabled": true
+    },
+    {
+      "name": "aai-locales",
+      "enabled": true
+    },
+    {
+      "name": "aai-motor-speed-tweak",
+      "enabled": true
+    },
+    {
+      "name": "aai-programmable-structures",
+      "enabled": true
+    },
+    {
+      "name": "aai-programmable-vehicles",
+      "enabled": true
+    },
+    {
+      "name": "aai-signals",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-chaingunner",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-flame-tank",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-flame-tumbler",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-hauler",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-laser-tank",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-miner",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-warden",
+      "enabled": true
+    },
+    {
+      "name": "aai-zones",
+      "enabled": true
+    },
+    {
+      "name": "accommodating-walls",
+      "enabled": true
+    },
+    {
+      "name": "Advanced-Solar",
+      "enabled": true
+    },
+    {
+      "name": "air-filtering",
+      "enabled": true
+    },
+    {
+      "name": "air-filtering-patched",
+      "enabled": true
+    },
+    {
+      "name": "alien-biomes",
+      "enabled": true
+    },
+    {
+      "name": "angelsindustries",
+      "enabled": true
+    },
+    {
+      "name": "angelsrefining",
+      "enabled": true
+    },
+    {
+      "name": "AsphaltRoads",
+      "enabled": true
+    },
+    {
+      "name": "AutomaticTrainDeconstructionUpdated",
+      "enabled": true
+    },
+    {
+      "name": "bobassembly",
+      "enabled": true
+    },
+    {
+      "name": "bobelectronics",
+      "enabled": true
+    },
+    {
+      "name": "bobenemies",
+      "enabled": true
+    },
+    {
+      "name": "bobinserters",
+      "enabled": true
+    },
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    {
+      "name": "boblogistics",
+      "enabled": true
+    },
+    {
+      "name": "bobmining",
+      "enabled": true
+    },
+    {
+      "name": "bobmodules",
+      "enabled": true
+    },
+    {
+      "name": "bobores",
+      "enabled": true
+    },
+    {
+      "name": "bobplates",
+      "enabled": true
+    },
+    {
+      "name": "bobpower",
+      "enabled": true
+    },
+    {
+      "name": "bobrevamp",
+      "enabled": true
+    },
+    {
+      "name": "bobtech",
+      "enabled": true
+    },
+    {
+      "name": "bobwarfare",
+      "enabled": true
+    },
+    {
+      "name": "Bottleneck",
+      "enabled": true
+    },
+    {
+      "name": "EvoGUI",
+      "enabled": true
+    },
+    {
+      "name": "Expanded_Robot_Tech",
+      "enabled": true
+    },
+    {
+      "name": "Explosive Termites",
+      "enabled": true
+    },
+    {
+      "name": "FARL",
+      "enabled": true
+    },
+    {
+      "name": "Geothermal",
+      "enabled": true
+    },
+    {
+      "name": "Laser_Beam_Turrets",
+      "enabled": true
+    },
+    {
+      "name": "Nanobots",
+      "enabled": true
+    },
+    {
+      "name": "only-smelting",
+      "enabled": true
+    },
+    {
+      "name": "PavementDriveAssist",
+      "enabled": true
+    },
+    {
       "name": "Rampant",
+      "enabled": true
+    },
+    {
+      "name": "recursive-blueprints",
+      "enabled": true
+    },
+    {
+      "name": "reverse-factory",
+      "enabled": true
+    },
+    {
+      "name": "robotarmy",
+      "enabled": true
+    },
+    {
+      "name": "rso-mod",
+      "enabled": true
+    },
+    {
+      "name": "Teleportation",
+      "enabled": true
+    },
+    {
+      "name": "upgrade-planner",
       "enabled": true
     }
   ]
